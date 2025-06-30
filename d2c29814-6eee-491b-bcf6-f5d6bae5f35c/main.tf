@@ -1,0 +1,4 @@
+module "Test" {
+  source = "./Test"
+}
+
