@@ -7,7 +7,7 @@ variable "region" {
 variable "bucket_name" {
   description = "The name of the S3 bucket"
   type        = string
-  default     = "neetesh-03-s3"
+  default     = "neetesh-04-s3"
 }
 
 variable "environment" {
