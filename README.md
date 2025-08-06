@@ -1,1 +1,0 @@
-# This is a Terraform project for AWS infrastructure management
